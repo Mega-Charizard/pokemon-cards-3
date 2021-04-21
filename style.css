@@ -105,8 +105,10 @@ html {
     scroll-behavior: smooth;
 }
 
-iframe {
+img {
  text-align: center;
+    height: 300px;
+    width: 300px;
 }
 
 a {
